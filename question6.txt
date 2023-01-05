@@ -1,0 +1,4 @@
+-   Nous avons développé 7 classes.
+-   Non le nombre de classe n'est pas minimum car la classe Carre et la classe TriangleRectangle
+    peuvent être contenues sous forme d'une méthode 
+    dans les classe Rectangle et Triangle respectivement.

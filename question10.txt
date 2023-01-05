@@ -1,0 +1,1 @@
+on devrait choisir le programme avec polymorphisme car il est rapide en terme de temps que l'autre programme.
